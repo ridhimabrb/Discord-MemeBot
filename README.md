@@ -13,3 +13,8 @@ This is a simple yet fun Discord bot built in Python and can be invited to any s
 ~ Pulls memes from open-source Reddit content.
 
 <img width="350" height="300" alt="Picture3" src="https://github.com/user-attachments/assets/17fd22af-9f68-44ab-8be3-b5a648a6d53c" />
+</br>
+</br>
+<img width="460" height="100" alt="Picture2" src="https://github.com/user-attachments/assets/a8488782-433d-4958-a489-62925e492ea0" />
+</br>Local for now
+
