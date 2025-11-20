@@ -1,4 +1,4 @@
-This is a simple yet fun Discord bot built in Python and can be invited to any server where it shows you memes when summoned😋. 
+This is a fun Discord bot built in Python and can be invited to any server where it shows you memes when summoned😋. 
 
 ✨ Features
 
